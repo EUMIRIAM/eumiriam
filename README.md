@@ -32,10 +32,9 @@ Sou estudante de Ciência da Computação no Centro Universitário União das Am
 
 ---
 
-📈 **GitHub Stats**
-
+## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EUMIRIAM&show_icons=true&theme=dracula" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=EUMIRIAM&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
 </p>
 
 
